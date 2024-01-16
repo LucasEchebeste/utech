@@ -1,0 +1,102 @@
+.imgPag2 {
+    width: 316px;
+    height: 316px;
+    flex-shrink: 0;
+
+}
+
+.quadradoPag2 {
+    width: 829px;
+    height: 316px;
+    flex-shrink: 0;
+    border-radius: 16px;
+}
+
+.tituloNegritoPag2 {
+    width: 519.154px;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px; /* 135% */
+    letter-spacing: 1.6px;
+}
+
+.tituloNormalPag2 {
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 1.6px;
+}
+
+.textoPag2 {
+    width: 578px;
+    color: #000;
+    font-family: Fontspring-DEMO-biennale-light;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 22.5px */
+}
+
+.icones {
+    margin-left: 85px;
+}
+
+/*MOBILE MOBILE MOBILE*/
+/*MOBILE MOBILE MOBILE*/
+
+.retanguloMobile {
+    width: 316px;
+    height: 494px;
+    flex-shrink: 0;
+}
+
+.tituloPagDoisMobile {
+    width: 210px;
+    color: #000;
+    text-align: center;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16.73px; /* 128.691% */
+    letter-spacing: 1.04px;
+}
+
+.tituloPagDoisMobileSpan {
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 16.73px;
+    letter-spacing: 1.04px;
+}
+
+.textPagDoisMobile {
+    width: 260px;
+    color: #000;
+    text-align: center;
+    font-family: Biennale;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 19.5px */
+}
+
+.logoSolucaoMobile {
+    width: 138.024px;
+    height: 35.471px;
+    flex-shrink: 0;
+}
+
+.iconeMobile {
+    width: 21px;
+    height: 20px;
+    flex-shrink: 0;
+}

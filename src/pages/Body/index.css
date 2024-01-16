@@ -1,0 +1,100 @@
+.container2 {
+    border: "2px solid red";
+    margin-left: 139px;
+    width: 1162px;
+}
+
+.tituloQuadrado {
+    width: 215.119px;
+    margin-left: 30px;
+    color: #55FF8E;
+    font-family: IBM Plex Mono;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 27px; /* 135% */
+    letter-spacing: 1.6px;
+}
+
+.tituloNegrito {
+    color: #55FF8E;
+    font-family: IBM Plex Mono;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 1.6px;
+}
+
+.textoQuadrado {
+    width: 426px;
+    color: #55FF8E;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 22.5px */
+
+}
+
+.quadrado:hover {
+    cursor: pointer;
+}
+
+.quadrado:hover .imgQuadrado {
+    filter: brightness(0);
+}
+
+.quadrado:hover {
+    background-color: #55FF8E !important;
+    color: #000 !important;
+}
+
+.quadrado:hover .tituloQuadrado, .quadrado:hover .tituloNegrito, .quadrado:hover .textoQuadrado {
+    background-color: #55FF8E !important;
+    color: #000 !important;
+}
+
+/* MOBILE  MOBILE  MOBILE */
+
+.tituloBodyMobile {
+    width: 255px;
+    height: 14.655px;
+    flex-shrink: 0;
+    color: #55FF8E;
+    text-align: center;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 25.5px */
+}
+
+.tituloImgBodyMobile {
+    width: 133.293px;
+    color: #55FF8E;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 16.73px; /* 128.691% */
+    letter-spacing: 1.04px;
+}
+
+.tituloNegritoImgBodyMobile {
+    color: #55FF8E;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16.73px;
+    letter-spacing: 1.04px;
+}
+
+.textBodyMobile {
+    width: 263.959px;
+    color: #55FF8E;
+    text-align: center;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 19.5px */
+}

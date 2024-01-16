@@ -1,0 +1,94 @@
+.imgHome {
+    width: 1440px;
+    height: 703px;
+    flex-shrink: 0;
+}
+
+.textoHome {
+    width: 469px;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 48px */
+}
+
+.itemMenu {
+    color: #FFF;
+    margin-left: 55px;
+    text-align: center;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 137.637%; /* 17.893px */
+    letter-spacing: 1.95px;
+    text-transform: uppercase;
+}
+
+.itemMenu:hover {
+    cursor: pointer;
+    color: #55FF8E;
+}
+
+.textoSolucao{
+    width: 590px;
+    color: #55FF8E;
+    font-family: Fontspring-DEMO-biennale-light;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 22.5px */
+}
+
+.textoSolucao2 {
+    width: 804px;
+    color: #55FF8E;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 52.5px */
+}
+
+/* MOBILE  MOBILE  MOBILE */
+
+.textoHomeMobile {
+    width: 295.69px;
+    color: #FFF;
+    text-align: center;
+    font-size: 15.69px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 23.534px */
+}
+
+.btnHomeMobile {
+    width: 185px;
+    height: 31px;
+    flex-shrink: 0;
+    border-radius: 32px;
+    background: #55FF8E;
+}
+
+.textbtnHomeMobile {
+    width: 153px;
+    height: 13px;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: IBM Plex Mono;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 126.5%; /* 16.445px */
+}
+
+.textHeaderMobile {
+    width: 323px;
+    color: #55FF8E;
+    text-align: center;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 375;
+    line-height: 150%; /* 19.5px */
+}

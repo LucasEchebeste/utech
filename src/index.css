@@ -1,0 +1,44 @@
+.container {
+  min-width: 1440px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@font-face {
+  font-family: 'Fontspring-DEMO-biennale-regular';
+  src: url('./assets/fonts/Fontspring-DEMO-biennale-regular.otf') format('opentype');
+  /* Outros estilos opcionais, como font-weight, font-style, etc. */
+}
+
+@font-face {
+  font-family: 'Fontspring-DEMO-biennale-light';
+  src: url('./assets/fonts/Fontspring-DEMO-biennale-light.otf') format('opentype');
+  /* Outros estilos opcionais, como font-weight, font-style, etc. */
+}
+
+
+body {
+  margin: 0;
+  background-color: #000;
+  font-family: 'Fontspring-DEMO-biennale-regular', sans-serif;
+}
+
+.btn-primary {
+  border-radius: 34px;
+  background: #55FF8E !important;
+  color: #000000 !important;
+  padding: 7px 22px;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 126.5%;
+  box-shadow: none !important;
+  /* 18.975px */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
